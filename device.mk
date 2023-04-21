@@ -247,6 +247,10 @@ PRODUCT_VENDOR_PROPERTIES += \
 PRODUCT_PACKAGES += \
     vendor.lineage.health-service.default
 
+# KProfile
+PRODUCT_PACKAGES += \
+    KProfiles
+    
 # Media
 PRODUCT_PACKAGES += \
     libavservices_minijail_vendor \
